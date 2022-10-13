@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-926e1c5b77f8b8729b1b147b4fcd2168.stex"
+path="res://.import/index.png-e1d35986082ee95adb496157347d34d5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html/corber.github.io/index.png"
-dest_files=[ "res://.import/index.png-926e1c5b77f8b8729b1b147b4fcd2168.stex" ]
+source_file="res://htnl/html/index.png"
+dest_files=[ "res://.import/index.png-e1d35986082ee95adb496157347d34d5.stex" ]
 
 [params]
 
